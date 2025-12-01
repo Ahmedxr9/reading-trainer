@@ -1,0 +1,76 @@
+[
+  {
+    "id": "easy-1",
+    "title": "The Happy Cat",
+    "content": "The cat sat on the mat. It was a happy cat. The cat liked to play. It played all day.",
+    "difficulty": "easy",
+    "wordCount": 24,
+    "category": "animals"
+  },
+  {
+    "id": "easy-2",
+    "title": "My Dog",
+    "content": "I have a dog. His name is Max. Max is big and brown. He likes to run. We play in the park.",
+    "difficulty": "easy",
+    "wordCount": 25,
+    "category": "animals"
+  },
+  {
+    "id": "easy-3",
+    "title": "The Red Ball",
+    "content": "I see a red ball. It is round and bouncy. I can throw it high. The ball comes back down.",
+    "difficulty": "easy",
+    "wordCount": 24,
+    "category": "toys"
+  },
+  {
+    "id": "medium-1",
+    "title": "The Magic Garden",
+    "content": "In the magic garden, flowers bloomed in every color. Butterflies danced from flower to flower. The sun shone brightly, making everything sparkle. It was a beautiful day.",
+    "difficulty": "medium",
+    "wordCount": 32,
+    "category": "nature"
+  },
+  {
+    "id": "medium-2",
+    "title": "The Brave Explorer",
+    "content": "Emma was a brave explorer. She loved to discover new places. One day, she found a hidden cave. Inside, she discovered ancient treasures and wonderful stories.",
+    "difficulty": "medium",
+    "wordCount": 31,
+    "category": "adventure"
+  },
+  {
+    "id": "medium-3",
+    "title": "The Friendly Robot",
+    "content": "Robo was a friendly robot who helped children learn. He could answer questions and tell stories. Children loved spending time with Robo because he was kind and patient.",
+    "difficulty": "medium",
+    "wordCount": 30,
+    "category": "technology"
+  },
+  {
+    "id": "hard-1",
+    "title": "The Ancient Library",
+    "content": "Deep within the ancient library, thousands of books lined the towering shelves. Each book contained stories from different times and places. Scholars from around the world came to study these precious texts. The library was a treasure trove of human knowledge and imagination.",
+    "difficulty": "hard",
+    "wordCount": 48,
+    "category": "education"
+  },
+  {
+    "id": "hard-2",
+    "title": "The Ocean Adventure",
+    "content": "Captain Sarah sailed her ship across the vast ocean. The waves crashed against the hull as seagulls circled overhead. She was searching for a legendary island that appeared on no map. Her crew trusted her completely, knowing she would lead them to adventure.",
+    "difficulty": "hard",
+    "wordCount": 47,
+    "category": "adventure"
+  },
+  {
+    "id": "hard-3",
+    "title": "The Inventor's Workshop",
+    "content": "In the inventor's workshop, gears turned and machines hummed. Dr. Martinez was creating something extraordinary. She combined science with creativity to solve problems that seemed impossible. Her inventions helped people all over the world live better lives.",
+    "difficulty": "hard",
+    "wordCount": 46,
+    "category": "science"
+  }
+]
+
+
